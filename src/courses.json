@@ -1,0 +1,86 @@
+[
+    {
+      "id": "1",
+      "title": "Advanced React Development",
+      "type": "Full-Time",
+      "description": "Master advanced concepts of React.js in this comprehensive course. Learn about hooks, context API, and advanced component patterns while building complex and scalable applications.",
+      "location": "Online",
+      "price": "$500",
+      "instructor": {
+        "name": "Tech Academy",
+        "description": "Tech Academy is a renowned online learning platform that offers a wide range of tech courses. Our mission is to provide quality education to learners worldwide, focusing on practical and industry-relevant skills.",
+        "contactEmail": "info@techacademy.com",
+        "contactPhone": "555-555-0001"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Introduction to Redux",
+      "type": "Part-Time",
+      "location": "Online",
+      "description": "This part-time course offers a deep dive into state management using Redux. Learn how to manage application state efficiently in complex React applications with real-world examples.",
+      "price": "$300",
+      "instructor": {
+        "name": "Code Masters",
+        "description": "Code Masters is dedicated to providing top-notch coding education, offering a range of courses designed to help developers of all levels improve their skills.",
+        "contactEmail": "support@codemasters.com",
+        "contactPhone": "555-555-0002"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React Native for Mobile Development",
+      "type": "Full-Time",
+      "location": "Online",
+      "description": "Learn how to build native mobile applications using React Native in this full-time course. Covering everything from setup to deployment, this course is perfect for developers looking to expand their skill set to mobile platforms.",
+      "price": "$700",
+      "instructor": {
+        "name": "Mobile Dev School",
+        "description": "Mobile Dev School specializes in courses focused on mobile development. With expert instructors and a hands-on approach, we prepare our students to excel in the mobile development industry.",
+        "contactEmail": "contact@mobiledevschool.com",
+        "contactPhone": "555-555-0003"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React for Beginners",
+      "type": "Part-Time",
+      "location": "Online",
+      "description": "This beginner-friendly course introduces you to the basics of React.js. Learn how to build simple, interactive UIs and gain the foundational knowledge needed to advance in web development.",
+      "price": "$200",
+      "instructor": {
+        "name": "WebDev Bootcamp",
+        "description": "WebDev Bootcamp offers intensive bootcamp-style courses aimed at beginners and those looking to transition into web development. We focus on hands-on learning and real-world projects.",
+        "contactEmail": "info@webdevbootcamp.com",
+        "contactPhone": "555-555-0004"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Development with React",
+      "type": "Full-Time",
+      "description": "Become a full-stack developer with this course that covers both front-end (React) and back-end technologies. Learn to build complete web applications from scratch.",
+      "location": "Online",
+      "price": "$1000",
+      "instructor": {
+        "name": "Stack Builders Institute",
+        "description": "Stack Builders Institute provides in-depth courses on full-stack development, helping students build the skills needed to create and manage complete web applications.",
+        "contactEmail": "support@stackbuilders.com",
+        "contactPhone": "555-555-0005"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React and TypeScript",
+      "type": "Full-Time",
+      "description": "This course teaches you how to combine React with TypeScript for safer and more robust applications. Learn to leverage TypeScript’s type system to improve your codebase.",
+      "location": "Online",
+      "price": "$600",
+      "instructor": {
+        "name": "ProCoders Academy",
+        "description": "ProCoders Academy is committed to delivering high-quality coding education with a focus on modern technologies. Our courses are designed for developers who want to stay ahead in the fast-paced tech industry.",
+        "contactEmail": "info@procodersacademy.com",
+        "contactPhone": "555-555-0006"
+      }
+    }
+]
